@@ -1,9 +1,57 @@
-- mettere quick links in fondo a ogni pagina
-- mettere back to top nella pagina galleria
-- cambiare i links del pulsante galleria
-- mettere rimando a homepage su nome/logo dell'header
-- mettere i contatti in home page
-X trovare modo di mettere mail ma antispam
+-   mettere quick links in fondo a ogni pagina
+-   mettere back to top nella pagina galleria
+-   cambiare i links del pulsante galleria
+X   mettere rimando a homepage su nome/logo dell'header
+-   mettere i contatti in home page
+X   trovare modo di mettere mail ma antispam
 
-- esportare stile div principale e degli snaps in un file di stile esterno
+-   esportare stile div principale e degli snaps in un file di stile esterno
+
+-   scegliere le immagini
+
+
+Categorie per navbar:
+orecchini
+  triangolo
+  ventagli
+  semplici
+  roselline
+  passamaneria
+  ricciolo
+  perle
+  doppio ricciolo
+  siluro
+
+collane
+  medievali
+  raso
+  siluro
+  angeli
+  angeli avvolti
+  collane coi nodi
+
+braccialetti
+  capsule
+  componibili
+
+anelli
+
+segnalibri
+  metallo
+    ricciolo
+    triangolo
+  legno
+    animali
+
+oggetti vari
+  cornici
+  porta salviette
+  mollette chiudipacco
+  presepi
+  angeli crepli
+  angeli da albero
+  alberelli
+  cerchietti
+  portachiavi
+  rosario
 

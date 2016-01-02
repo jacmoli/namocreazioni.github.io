@@ -1,0 +1,58 @@
+	<div class="sezione" id="triangolo">
+		<h2>Orecchini serie Triangolo</h2>
+		
+		<a href="img/orecchini/full/1.jpg" target="_blank">
+			<div class="miniimmagini">
+				<img src="img/orecchini/mini/1.jpg" class="snapsv" alt="">
+			</div>
+		</a>
+		
+		<a href="img/orecchini/full/2.jpg" target="_blank">
+			<div class="miniimmagini">
+				<img src="img/orecchini/mini/2.jpg" class="snapsh" alt="">
+			</div>
+		</a>
+		
+		<a href="img/orecchini/full/3.jpg" target="_blank">
+			<div class="miniimmagini">
+				<img src="img/orecchini/mini/3.jpg" class="snapsh" alt="">
+			</div>
+		</a>
+		
+		<a href="img/orecchini/full/4.jpg" target="_blank">
+			<div class="miniimmagini">
+				<img src="img/orecchini/mini/4.jpg" class="snapsh" alt="">	
+			</div>
+		</a>
+		
+		<a href="img/orecchini/full/5.jpg" target="_blank">
+			<div class="miniimmagini">
+				<img src="img/orecchini/mini/5.jpg" class="snapsh" alt="">
+			</div>
+		</a>		
+
+		<a href="img/orecchini/full/6.jpg" target="_blank">
+			<div class="miniimmagini">
+				<img src="img/orecchini/mini/6.jpg" class="snapsh" alt="">
+			</div>
+		</a>		
+		
+		<a href="img/orecchini/full/7.jpg" target="_blank">
+			<div class="miniimmagini">		
+				<img src="img/orecchini/mini/7.jpg" class="snapsh" alt="">
+			</div>
+		</a>			
+		
+		<a href="img/orecchini/full/8.jpg" target="_blank">
+			<div class="miniimmagini">		
+				<img src="img/orecchini/mini/8.jpg" class="snapsh" alt="">		
+			</div>
+		</a>			
+		
+		<p class="tornaindice">
+			<a class="page-scroll" href="#iniziopagina">
+				<span class="glyphicon glyphicon-arrow-up" aria-hidden="true"></span> Torna all'indice delle serie <span class="glyphicon glyphicon-arrow-up" aria-hidden="true"></span>
+			</a>
+		</p>
+		
+	</div>

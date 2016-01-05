@@ -1,8 +1,8 @@
--   mettere quick links in fondo a ogni pagina
--   mettere back to top nella pagina galleria
--   cambiare i links del pulsante galleria
+NO  mettere quick links in fondo a ogni pagina
+X   mettere back to top nella pagina galleria
+X   cambiare i links del pulsante galleria
 X   mettere rimando a homepage su nome/logo dell'header
--   mettere i contatti in home page
+X   mettere i contatti in home page
 X   trovare modo di mettere mail ma antispam
 
 -   esportare stile div principale e degli snaps in un file di stile esterno

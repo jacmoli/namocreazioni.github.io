@@ -1,0 +1,5 @@
+imm portfolio: 960x720 solo orizzontale
+
+
+imm full: 960x720 oppure 720x960
+imm mini: 240x180 oppure 180x240

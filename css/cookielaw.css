@@ -1,0 +1,28 @@
+/*Gestione informativa cookie*/
+
+
+.cookieDialogTop {
+    background-color: rgb(50, 50, 50);
+    color: white;
+    left: 0;
+    padding: 10px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    z-index: 10000;
+    display: none;
+	font-size:12px;
+}
+
+.cookieDialogTopInternal {
+    margin: auto;
+    max-width: 1000px;
+    text-align: center;
+}
+
+    .cookieDialogTopInternal a, .cookieDialogTopInternal button {
+        background-color: transparent;
+        border-style: none;
+        color: #3071A9;
+        font-weight: bold;
+    }

@@ -40,7 +40,16 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 	
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+		ga('create', 'UA-72243465-1', 'auto');
+		ga('set', 'anonymizeIp', true);
+		ga('send', 'pageview');
+	</script>
 	
 </head>
 
@@ -49,12 +58,12 @@
 <!-- INIZIO INFORMATIVA COOKIE by Nico -->
 	<div style="" title="Informativa" class="cookieDialogTop" id="cookieDialogTopDiv">
         <div class="cookieDialogTopInternal" id="cookieDialogTopDivInternal">
-            Questo sito utilizza cookie propri e di terze parti per garantire le funzionalit&agrave;. <br>
-            Per visualizzare la nostra cookie policy <a href="">clicca qui</a>.<br>
+            Questo sito utilizza cookies per garantire le funzionalit&agrave; ed a fini statistici. <br>
+            <a href="//www.iubenda.com/privacy-policy/7787243" class="iubenda-black iubenda-embed" title="Privacy Policy">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script><br>
 			Premendo il pulsante "OK", o proseguendo con l'uso del sito si acconsente all’uso dei cookie.
-  <button onclick="acceptCookie();" class="btnAccettaCookie" id="btnAccettaCookie">OK</button>
- </div>
-</div>
+			<button onclick="acceptCookie();" class="btnAccettaCookie" id="btnAccettaCookie">OK</button>
+		</div>
+	</div>
 <!-- FINE INFORMATIVA COOKIE -->
 
 
@@ -219,7 +228,7 @@
 				
  <!-- Immagine 6 -->
 				<div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="varie.html">
+                    <a class="portfolio-box" href="vari.html">
                         <img src="img/portfolio/6.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -265,7 +274,7 @@
         </div>
     </section>
 	
-    <aside class="bg-dark">
+    <aside class="bg-dark" id="contatti">
         <div class="container text-center">
             <div class="call-to-action">
                 <h2 class="wow tada">Vuoi seguirmi?</h2>
@@ -286,9 +295,14 @@
 						document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");
 					</script>
 				</p>
-            </div>
+			</div>
         </div>
     </aside>
+	
+
+	<div class="bg-dark" style="text-align:right; margin:0px; padding:10px;">
+		<a href="//www.iubenda.com/privacy-policy/7787243" class="iubenda-black iubenda-embed" title="Privacy Policy">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+	</div>
 	
 </div>
 	
@@ -300,6 +314,7 @@
     <script src="js/creative.js"></script>
 	
 	<script src="js/cookielaw.js"></script>
+	
 	
 </body>
 
